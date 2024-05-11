@@ -1,6 +1,5 @@
 <h1 align="center">SiniMini876 - Yoav</h1>
 <h3 align="center">Well currently I am doing whatever I want</h3>
-<h4>The CEO and Founder of the Card Jitsu discord bot</h4>
 
 <div>
   <a href="https://github.com/SiniMini876">
@@ -35,14 +34,5 @@
 - Discord - SiniMini876#7729
 - [Docker](https://www.docker.com/)
 - [Google Cloud Console](https://console.cloud.google.com/)
-
-### Hobbies
-- Well yk friends and stuff
-- In the free time play CS and Minecraft
-
-### Technical information
-- VSCode for life
-- WSL2 cause Win11
-- Free for jobs
 
 Thanks for checking me out!
