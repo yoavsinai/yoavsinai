@@ -2,7 +2,7 @@
 <h3 align="center">CS student at Bar Ilan University</h3>
 
 ### Check out my Projects and Websites
-- [Card Jitsu Discord Bot]([https://cardjitsubot.cf](https://top.gg/bot/933071368789065799)
+- [Card Jitsu Discord Bot](https://top.gg/bot/933071368789065799)
 - [LinkedIn](https://www.linkedin.com/in/yoavsinai/)
 
 ### Programming languages I have experience with
