@@ -1,5 +1,5 @@
 <h1 align="center">Yoav Sinai</h1>
-<h3 align="center">CS student at Bar Ilan University</h3>
+<h3 align="center">CS Student at Bar Ilan University</h3>
 
 ### Check out my Projects and Websites
 - [Card Jitsu Discord Bot](https://top.gg/bot/933071368789065799)
@@ -8,6 +8,7 @@
 ### Programming languages I have experience with
 - [JavaScript](https://www.javascript.com) / [TypeScript](https://www.typescriptlang.org) / [NodeJS](https://nodejs.org)
 - [C](https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170)
+- [CPP](https://isocpp.org)
 - Assembly x64
 - [HTML5](https://en.wikipedia.org/wiki/HTML5) / [CSS](https://en.wikipedia.org/wiki/CSS) (Markup and StyleSheet languages, but including it here anyway)
 - [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
@@ -23,6 +24,7 @@
 - [Discord.js](https://discord.js.org/#/)
 
 ### Tools I have experience with
+- [JIRA](https://www.atlassian.com/software/jira)
 - [Tailwind CSS](https://tailwindcss.com)
 - [Bootstrap](https://getbootstrap.com)
 - [MongoDB](https://www.mongodb.com)
